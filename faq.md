@@ -28,7 +28,7 @@ This data will not be updated. It is a static underlying dataset.
 
 ## Git Repository
 
-All code for developing this dashboard can be found in the accompanying [github repository](https://github.com/joewarth/close_ratio_shiny_dashboard).
+All code for developing this dashboard can be found in the accompanying <a href="https://github.com/joewarth/close_ratio_shiny_dashboard" target="_blank" rel="noopener noreferrer">github repository</a>.
 
 ## Author
 
